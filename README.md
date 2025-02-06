@@ -5,8 +5,11 @@ I'm passionate about transforming raw data into strategic insights that power im
 
 • 🔍 Currently: Elevating educational excellence as a Business Analyst at TAMU Center of Teaching and Excellence—designing AI-driven workflows and dynamic dashboards that boost efficiency and 
   student engagement.
+  
 • 💡 Experience: With 3+ years at Deloitte and Texas A&M, I blend analytical rigor with innovative thinking to turn complex challenges into clear, actionable strategies.
+
 • 📫 Connect: rishabh.semwal@tamu.edu | LinkedIn
+
 • ⚡ Fun Fact: I’m known to make spreadsheets dance—turning chaotic numbers into a symphony of insights faster than you can finish your coffee!
 
 <h3 align="left">Connect with me:</h3>
