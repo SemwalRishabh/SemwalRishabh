@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Semwal</h1>
 <h3 align="center">A business Analyst Bridging gap between technical solutions an business needs</h3>
 
-I'm passionate about transforming raw data into strategic insights that power impactful business decisions. I believe every breakthrough starts with a deep understanding of stakeholder needs, refined by creative problem-solving and iterative innovation.
+I'm passionate about transforming raw data into strategic insights that power impactful business decisions. I believe every breakthrough starts with a deep understanding of stakeholder needs, refined by creative problem-solving and iterative innovation. I thrive on turning complexity into clarity, using emerging technologies to uncover hidden patterns in the data. My goal is to empower organizations to make data-driven decisions that propel sustainable growth and innovation.
 
 • 🔍 Currently: Elevating educational excellence as a Business Analyst at TAMU Center of Teaching and Excellence—designing AI-driven workflows and dynamic dashboards that boost efficiency and 
   student engagement.
