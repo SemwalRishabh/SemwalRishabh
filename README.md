@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishabh Semwal</h1>
 <h3 align="center">A business Analyst Bridging gap between technical solutions an business needs</h3>
+<h3>I'm passionate about transforming raw data into strategic insights that power impactful business decisions. I believe every breakthrough starts with a deep understanding of stakeholder needs, refined by creative problem-solving and iterative innovation.
+
+🔍 Currently, I'm elevating educational excellence as a Business Analyst at TAMU Center of Teaching and Excellence—designing AI-driven workflows and dynamic dashboards that boost efficiency and student engagement.
+💡 With 3+ years of experience spanning Deloitte and Texas A&M, I blend analytical rigor with innovative thinking to turn complex challenges into clear, actionable strategies.
+📫 Let’s connect: rishabh.semwal@tamu.edu | LinkedIn
+⚡ Fun fact: I’m known to make spreadsheets dance—turning chaotic numbers into a symphony of insights faster than you can finish your coffee!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
