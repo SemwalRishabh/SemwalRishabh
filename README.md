@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishabh Semwal</h1>
 <h3 align="center">A business Analyst Bridging gap between technical solutions an business needs</h3>
 
-<h3>I'm passionate about transforming raw data into strategic insights that power impactful business decisions. I believe every breakthrough starts with a deep understanding of stakeholder needs, refined by creative problem-solving and iterative innovation.<h3></h3>
+I am fascinated by the power of data, design, and technology because it can shape extraordinary customer experiences. In my view, a successful product or service emerges from a profound understanding of stakeholders' needs, complemented by iterations aligned with strategic business goals. This philosophy fuels my passion for data analysis and its potential to revolutionize businesses.
 
-<h3>🔍 Currently, I'm elevating educational excellence as a Business Analyst at TAMU Center of Teaching and Excellence—designing AI-driven workflows and dynamic dashboards that boost efficiency and student engagement.</h3>
-<h3>💡 With 3+ years of experience spanning Deloitte and Texas A&M, I blend analytical rigor with innovative thinking to turn complex challenges into clear, actionable strategies.<h3>
-📫 Let’s connect: rishabh.semwal@tamu.edu | LinkedIn
-⚡ Fun fact: I’m known to make spreadsheets dance—turning chaotic numbers into a symphony of insights faster than you can finish your coffee!
+🔭 Currently, I'm immersed in honing my skills in Data Science, delving deep into data manipulation, analysis, and interpretation.
+🌱 Currently exploring Data Science
+📫 How to reach me anirudhkhandelwal04@gmail.com and linkedin
+⚡ Fun fact: I founded a successful $5M venture 💰 and am a skilled National Table Tennis Player 🏓
+Languages and Tools:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
